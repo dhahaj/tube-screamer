@@ -1,0 +1,17 @@
+Added Component: Designator=J3(DC-005-5A-3.0)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "DC-005-5A-3.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = "XKB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 2"; Value = "DC-005-5A-3.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Schematic-Lib-PhilsLab.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=9V Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Member To Class: ClassName=Sheet1 Member=Component J3 DC-005-5A-3.0

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=NetC9_2 Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=J3-3
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=R16-3
+Change Component Footprint: Designator=C9 Old Footprint=CAP_0805 New Footprint=FP-0805-L_2_0_0_2-W_1_25-MFG
+Change Component Comment : Designator=C9 Old Comment=220nF New Comment=EMK212BB7106MG-T
+Change Component Comment : Designator=R4 Old Comment=PDB241-GTR01-504A2 New Comment=Drive
+Change Component Comment : Designator=R16 Old Comment=PDB241-GTR01-504A2 New Comment=Level
+Change Component Comment : Designator=R9 Old Comment=PDB241-GTR01-504A2 New Comment=Tone
+Change Managed Component Library Link : Designator=C9 Old VaultGUID=F05C31DC-7631-4A0A-A4AB-FD41BC38C457 New VaultGUID=F05C31DC-7631-4A0A-A4AB-FD41BC38C457 Old ItemGUID=D1CD0C94-0538-469A-91D7-6D8CDDBCE59C New ItemGUID=917ad211-a5cd-4c34-8ba9-40e8159d5df8 Old RevisionGUID=B303932F-43E5-4F74-BB0E-84DC280C5735 New RevisionGUID=74c83b14-7226-45fa-aa31-c17999d314b0
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAP_0805"; UniqueID = "\GEMJUDEE" ("\GEMJUDEE")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin BATT-1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=4.5V Pin=R8-2
+Added Pin To Net: NetName=4.5V Pin=R16-3
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC9_1
+Added Pin To Net: NetName=NetBATT_2 Pin=J1-2
+Added Pin To Net: NetName=NetBATT_2 Pin=J1-2
+Added Net: Name=NetBATT_2
+Add Class Member: Failed to add class member : Component BATT Battery
