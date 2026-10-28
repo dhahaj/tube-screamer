@@ -1,0 +1,19 @@
+LTspice 26.1.1 for Windows
+Circuit: D:\tube-screamer\Clipper2.net
+Start Time: Wed Oct 28 16:10:51 2026
+solver = Normal
+Maximum thread count: 24
+tnom = 27
+temp = 27
+method = trap
+Compress1stOrder = true
+Compress2ndOrder = true
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 11.433 seconds.
+Total iterations: 3562784
+
+Files loaded:
+D:\tube-screamer\Clipper2.net
+C:\Users\dhaha\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\dhaha\AppData\Local\LTspice\lib\sub\UniversalOpAmp2.lib
+
