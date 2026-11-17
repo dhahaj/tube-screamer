@@ -116,16 +116,16 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GSNKQAOF
+DocumentUniqueId=
 
 [Document5]
-DocumentPath=Schlib1.SchLib
+DocumentPath=Sheet2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -133,7 +133,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NWFDNXWO
+DocumentUniqueId=EYOLQWLZ
 
 [Configuration1]
 Name=Sources
@@ -155,22 +155,12 @@ OutputName1=PCAD Netlist
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=XSpiceNetlist
-OutputName2=Mixed Sim Netlist
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=KONICA MINOLTA Universal PS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -679,7 +669,6 @@ Type147=1
 Type148=1
 Type149=1
 Type150=1
-Type151=1
 
 [Difference Levels]
 Type1=1
@@ -763,7 +752,6 @@ Type78=1
 Type79=1
 Type80=1
 Type81=1
-Type82=1
 
 [Electrical Rules Check]
 Type1=1
@@ -920,13 +908,6 @@ Type151=2
 Type152=1
 Type153=1
 Type154=0
-Type155=0
-Type156=0
-Type157=0
-Type158=0
-Type159=0
-Type160=0
-Type161=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
